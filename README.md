@@ -1,2 +1,4 @@
 # Student-Attendance-management-system
-Managing student Attendance to improve 
+Efficiently track and manage student attendance.
+
+
